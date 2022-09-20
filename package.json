@@ -1,0 +1,13 @@
+{
+  "name": "rpg-planner-server",
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.13.1"
+  },
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "license": "UNLICENCED"
+}
